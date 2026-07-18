@@ -13,5 +13,6 @@ int main()
     printf("integer is:%d\n",a);
     printf("float is:%f\n",b);
     printf("character is:%c\n",c);
+    printf("Thankyou");
     return 0;
 }
