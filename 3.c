@@ -17,6 +17,7 @@ int main()
     printf("subtraction of %d and %d is %d\n",a,b,sub);
     printf("multiplication of %d and %d is %d\n",a,b,mul);
     printf("division of %d and %d is %d\n",a,b,div);
+    printf("Thnankyou");
     return 0;
 }
 
